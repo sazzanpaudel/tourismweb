@@ -15,6 +15,7 @@ function App(){
             <img src={naturephoto} width='100%' alt='' />
             <h1 className='text-wrapper'>It's Time For New</h1>
         </div>
+        <h1>Cosmos College of management and technology</h1>
         
         <p>
         
