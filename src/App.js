@@ -15,7 +15,12 @@ function App(){
             <img src={naturephoto} width='100%' alt='' />
             <h1 className='text-wrapper'>It's Time For New</h1>
         </div>
+<<<<<<< HEAD
         <h1>Cosmos College of management and technology</h1>
+=======
+        <h1>Helllo my name is sajjan paudel</h1>
+        <h2> I live in Satdobato</h2>
+>>>>>>> b3645252e391c5217916969c6da8182fe33836ce
         
         <p>
         
