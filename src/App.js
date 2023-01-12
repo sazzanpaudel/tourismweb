@@ -14,8 +14,9 @@ function App(){
         <div className='background'>
             <img src={naturephoto} width='100%' alt='' />
             <h1 className='text-wrapper'>It's Time For New</h1>
-<h1>My name is sajjan paudel</h1>
         </div>
+        <h1>Helllo my name is sajjan paudel</h1>
+        <h2> I live in Satdobato</h2>
         
         <p>
         
