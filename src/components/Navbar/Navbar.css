@@ -1,0 +1,56 @@
+.n-wrapper{
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+}
+.Search1{
+
+        color: aliceblue;
+        background-color: transparent;
+        position: relative;
+        vertical-align: top;
+        font-size: 15px;
+        border-color: aliceblue;
+        border-radius: 2rem;    
+}
+
+ 
+    .n-left{
+        flex: 1;
+        align-items: center;
+        display: flex;
+        gap: 3rem;
+    
+    }
+    
+    .n-right {
+       
+        display: flex;
+        flex: 1;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    a {
+        color: white;
+      }
+      a:visited {
+        color: white;
+      }
+      a:hover, a:active, a:focus {
+        color: white;
+      }
+    
+    
+    
+    .n-list> ul {
+        display: flex;
+        gap: 4rem;
+        height: 10vh;
+    
+    }
+    .n-list >ul >li {
+        float: right;
+        position:relative;
+        float: right;
+    }
